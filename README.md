@@ -75,14 +75,3 @@ All APIs are free and require no authentication except Google AI Studio.
 | [REST Countries](https://restcountries.com/) | Country profiles | None |
 | [Nager.Date](https://date.nager.at/) | Public holidays | None |
 | [Google AI Studio](https://aistudio.google.com/) | Data formatting | API key |
-
-## Project Structure
-
-```
-Local_MCP_Server2/
-├── server_v4.py      # MCP server — all tools and logic
-├── requirements.txt  # Python dependencies
-├── .env              # Local secrets (git-ignored)
-├── .env.example      # Template for environment variables
-└── README.md
-```
